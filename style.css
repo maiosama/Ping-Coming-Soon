@@ -1,0 +1,75 @@
+
+body{
+    font-family: 'Fira Sans Condensed', sans-serif;
+    text-align: center;
+    margin: auto;
+}
+/* title */
+.title{
+    font-weight:600;
+}
+.dot{
+    width: 10px;
+    height: 15px;
+    color: rgb(17, 17, 250);
+    
+  
+}
+/* main-line */
+.main-line{
+    font-size: 30px;
+    /* padding-top: 5px; */
+    color: grey;
+}
+.strong{
+    color:black;
+    font-weight: 600;
+}
+/* form */
+#email{
+    border: 2px solid rgb(187, 187, 187);
+    padding: 10px;
+    border-radius: 30px;
+    width: 30%;
+    
+  
+}
+.btn{
+    padding: 10px;
+    border:none;
+    border-radius: 30px;
+    background-color: rgba(56, 141, 238, 0.801);
+    width: 10%;
+    cursor: pointer;
+  
+}
+.message{
+    color:red
+}
+@media screen and (max-width: 1000px){
+    #email{
+        width:70%;
+        padding: 15px;
+        margin: 10px;
+        
+    }
+    .btn{
+        width:75%;
+        height: 45px;
+        padding: 10px;
+        margin: 10px;
+    }
+}
+/* image */
+@media screen and (max-width: 1000px){
+    img{
+        width: 400px;
+    
+    }
+    
+}
+/* social media icons */
+.fab{
+    color: rgb(63, 63, 199);
+    padding: 15px;
+}
