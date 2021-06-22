@@ -4,7 +4,7 @@ let regexEmail = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 let errorSpan = document.getElementsByClassName("message");
 
 
-notify[0].addEventListener('click', checkForm(e))
+notify[0].addEventListener('submit', checkForm(e))
 
 
 
