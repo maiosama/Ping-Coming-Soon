@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da/hub/ping-single-column-coming-soon-page-xdYH5FkLQ
-- Live Site URL: https://vibrant-minsky-4bcbf1.netlify.app/
+- Live Site URL: https://pingcomingsoontrial.netlify.app/
 
 ## My process
 
