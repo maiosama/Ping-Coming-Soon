@@ -45,7 +45,8 @@ body{
   
 }
 .message{
-    color:hsl(354, 100%, 66%)
+    color:hsl(354, 100%, 66%);
+    font-size: 15px;
 }
 @media screen and (max-width: 1000px){
     #email{
